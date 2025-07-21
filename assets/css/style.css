@@ -1,0 +1,22 @@
+.titre {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+}
+titre{color: rgb(249, 145, 136);
+
+}
+   .province{font-size: 22px;
+}
+            
+ .territoires{font-size: 22px;
+    
+ }           
+
+.ville {font-size:22px
+
+}
+/* .viille{
+    border-bottom:https://www.youtube.com/watch?v=rivL6vSIj_0&pp=ygUfdmlkZW8gc3VyIGxlIGNhbmFkYSBlbiBmcmFuY2Fpcw%3D%3D:
+} */
